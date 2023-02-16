@@ -22,4 +22,4 @@ print("................................")
 print(".......... RESULTADOS ..........")
 print("................................")
 
-print("resultado numero invertido: " + str(ni))
+print("resultado numero invertido: " + str(ni))  
